@@ -1,0 +1,8 @@
+Origin:X-Ster's Repo
+Label:X-Ster
+Suite: stable
+Version: 1.0
+Codename:X-Ster
+Architectures: iphoneos-arm
+Components: main
+Description:Tweak
